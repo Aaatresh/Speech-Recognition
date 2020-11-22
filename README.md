@@ -53,5 +53,5 @@ Contributors names and contact info
 This project is licensed under the GPL-3.0 License - see the LICENSE.md file for details
 
 ## Acknowledgements
-Special thanks to IEEE NITK for funding and guiding us through this project. 
+Special thanks to IEEE NITK for funding and guiding us through this project. <br>
 Thank you https://github.com/MyrtleSoftware for aiding us in the implementation of "deepspeech".
