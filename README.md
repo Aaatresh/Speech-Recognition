@@ -12,16 +12,17 @@ A study to compare speech recognition algorithms for real-time human voice comma
 
 ### Dependencies
 
-* Describe any prerequisites, libraries, OS version, etc., needed before installing program.
-* ex. Windows 10
+* TensorFlow==1.x.
+* RaspberryPi 3
+* Python==2.x
 
 ### Installing
-
-* How/where to download your program
-* Any modifications needed to be made to files/folders
+```
+git clone Aaatresh/Speech-Recognition
+```
 
 ### Data
-Any audio data can be fed into this system as long as it consists of speech. The audio data can be stored in directory, and models can be run separately.
+The data used in this project consisted of multiple audio recordings for each command to be followed. 
 
 ### Running the code
 To run mfcc + dtw:
@@ -43,6 +44,7 @@ run ./deepspeech/run_model.py
 ## Authors
 Contributors names and contact info
 * Anirudh Aatresh (aaa.171ec106@nitk.edu.in)
+* Vishal Shukla
 
 ## Version History
 * 0.1
